@@ -50,7 +50,7 @@ public class CartPage extends ReusableMethods {
 			double total_sum_value = Double.parseDouble(Value);
 			total_sum = total_sum + total_sum_value;
 		}
-		//Assert.assertEquals(total_sum, finalValue_inDouble);
+		Assert.assertEquals(total_sum, finalValue_inDouble);
 
 	}
 
