@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-05T11:36:50 IST" name="Suite" finished-at="2023-07-05T11:37:13 IST" duration-ms="23068">
+    <groups>
+    </groups>
+    <test started-at="2023-07-05T11:36:50 IST" name="Test" finished-at="2023-07-05T11:37:13 IST" duration-ms="23068">
+      <class name="com.RegressionSuite.TC_01_Validate_Total_Amount">
+        <test-method is-config="true" signature="initialSetUP()[pri:0, instance:com.RegressionSuite.TC_01_Validate_Total_Amount@119cbf96]" started-at="2023-07-05T11:36:50 IST" name="initialSetUP" finished-at="2023-07-05T11:36:57 IST" duration-ms="6770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUP -->
+        <test-method signature="validateHybridTest()[pri:0, instance:com.RegressionSuite.TC_01_Validate_Total_Amount@119cbf96]" started-at="2023-07-05T11:36:57 IST" name="validateHybridTest" finished-at="2023-07-05T11:37:13 IST" duration-ms="15882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHybridTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.RegressionSuite.TC_01_Validate_Total_Amount@119cbf96]" started-at="2023-07-05T11:37:13 IST" name="tearDown" finished-at="2023-07-05T11:37:13 IST" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.RegressionSuite.TC_01_Validate_Total_Amount -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
